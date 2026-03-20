@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(166, 166, 152);
+}
+.img1{
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 50%;
+}
+
+.im:hover{
+    transform: scale(1.1);
+    
+
+}
+a:hover{
+    color: rgb(210, 77, 77);
+
+}
